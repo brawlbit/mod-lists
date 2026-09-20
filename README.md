@@ -21,3 +21,6 @@ makin this for my mod manager im working on
 [II's Too Much Info](https://github.com/iireborn/TooMuchInfo)
 
 [II's Librepad](https://github.com/iireborn/LibrePad-Updated)
+
+## poopoovr
+[Anti Isreal Auth (malware protector)](https://github.com/poopoovr/AntiIsraelAuth)
