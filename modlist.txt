@@ -6,3 +6,42 @@ outdated hashes: NA
 trusted status: fully trusted
 download: https://github.com/Malachi-the-modder/ownerids/releases/download/Malachis_Menu_Reborn/Malachis_Menu_Reborn.dll
 ]
+[
+mod name: II-REBORN
+current hashes: (4b7148a5012aee3ed99f9c8456f11f51be053910cb274508d6d54ddc683b559e)
+outdated hashes: (1d2688dfb6c2d4e013d81362ee29d82fb8330d976f3017c994721b0da7cf5bdb), (c5086db0938871fa334a35021a8a5bd2f0dd66bf488eafdf5ef4588dc8395a57)
+trusted status: mostly trusted
+download: https://github.com/iireborn/iis.Stupid.Menu/releases/download/1.0.3/ii.s.Stupid.Menu.dll
+]
+[
+mod name: II-UTILLA
+current hashes: (9f3827b9e820d63ed10ffbd15d7221f1a85876ad512ef06aefda55264138d4fc)
+outdated hashes: NA
+trusted status: mostly trusted
+download: https://github.com/iireborn/Utilla/releases/download/1.0.0/Utilla.dll
+]
+[
+mod name: II-WalkSim
+current hashes: (3e2023ec3030409753a5c91acdfc8af7a4db24499a36db62103a479dba2a954c)
+outdated hashes: NA
+trusted status: mostly trusted
+download: https://github.com/iireborn/Walksim-Fixed/releases/download/v1.0.0/WalkSimulator.dll
+]
+[
+mod name: II-TMI
+current hashes: (29a63c3975131d515fce7b667260321f6a11292e199a52302d3085bcc9204a6c)
+outdated hashes: NA
+trusted status: mostly trusted
+download: https://github.com/iireborn/TooMuchInfo/releases/download/1/TooMuchInfo.dll
+]
+[
+mod name: II-LibrePad
+current hashes: (d228957f0785c7ebd46ebd55fa34438fa62e4c93097520abb43d4591f1022746)
+outdated hashes: NA
+trusted status: mostly trusted
+download: https://github.com/iireborn/LibrePad-Updated/releases/download/1/LibrePad.dll
+]
+
+
+
+
