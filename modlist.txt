@@ -41,6 +41,13 @@ outdated hashes: NA
 trusted status: mostly trusted
 download: https://github.com/iireborn/LibrePad-Updated/releases/download/1/LibrePad.dll
 ]
+[
+mod name: AntiIsrealAuth
+current hashes: (677e2fc0804f63bdae9be9bc85b1964effc98ad109b93ba48e79479d81565852)
+outdated hashes: NA
+trusted status: fully trusted
+download: https://github.com/poopoovr/AntiIsraelAuth/releases/download/1.0.0/AntiIAuth.dll
+]
 
 
 
