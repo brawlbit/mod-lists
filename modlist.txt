@@ -1,0 +1,8 @@
+
+[
+mod name: Malachi Menu
+current hashes: (ca97b49aca8c5e35aa563f23d87d6464d3661cd5c0167e4625cd3a3202d3dbb4)
+outdated hashes: NA
+trusted status: fully trusted
+download: https://github.com/Malachi-the-modder/ownerids/releases/download/Malachis_Menu_Reborn/Malachis_Menu_Reborn.dll
+]
