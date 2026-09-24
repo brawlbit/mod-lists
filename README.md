@@ -6,7 +6,7 @@ makin this for my mod manager im working on
 [malachi menu ](https://github.com/Malachi-the-modder/ownerids) 
 
 ## II Reborn
-[II Reborn](https://github.com/iireborn/iis.Stupid.Menu)
+[II Reborn](https://github.com/iireborn/ii.stupid.menu)
 
 [II's Utilla](https://github.com/iireborn/Utilla)
 
